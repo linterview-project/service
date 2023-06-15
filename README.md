@@ -10,7 +10,7 @@ Fork and/or clone this repo.
 
 To contribute a question that you have received in a real interview or that you
 think would be good to add to the questions list, edit 
-[questions.json](https://github.com/linterview-project/service/questions.json).
+[questions.json](https://github.com/linterview-project/service/blob/main/questions.json).
 Create a new entry following the template below. Suggest a short title for the question,
 the full question in its entirety, an optional short description (it could include
 where you heard the question or what skills the question focuses on).
