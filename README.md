@@ -6,17 +6,7 @@ for your interviews.
 
 ## Contributing
 
-Clone this repository to your local device:
-
-SSH:
-```
-git clone git@github.com:linterview-project/service.git
-```
-
-HTTPS:
-```
-git clone https://github.com/linterview-project/service.git
-```
+Fork and/or clone this repo.
 
 To contribute a question that you have received in a real interview or that you
 think would be good to add to the questions list, edit 
@@ -25,7 +15,7 @@ Create a new entry following the template below. Suggest a short title for the q
 the full question in its entirety, an optional short description (it could include
 where you heard the question or what skills the question focuses on).
 
-```json
+```js
 {
   title: "Biggest Challenge",
   question: "What has been the biggest challenge outside of work and school for you?",
