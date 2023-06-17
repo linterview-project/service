@@ -17,9 +17,9 @@ where you heard the question or what skills the question focuses on).
 
 ```js
 {
-  title: "Biggest Challenge",
-  question: "What has been the biggest challenge outside of work and school for you?",
-  description: "This question focuses on personality. I was asked this question
+  "title": "Biggest Challenge",
+  "question": "What has been the biggest challenge outside of work and school for you?",
+  "description": "This question focuses on personality. I was asked this question
     when I interviewed for a internship position at LinterView."
 }
 ```
